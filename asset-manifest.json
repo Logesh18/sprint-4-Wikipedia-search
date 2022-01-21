@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-Wikipedia-search/static/css/main.8b0878a0.css",
+    "main.js": "/sprint-4-Wikipedia-search/static/js/main.4c4dfec2.js",
+    "static/js/787.13afafe9.chunk.js": "/sprint-4-Wikipedia-search/static/js/787.13afafe9.chunk.js",
+    "index.html": "/sprint-4-Wikipedia-search/index.html",
+    "main.8b0878a0.css.map": "/sprint-4-Wikipedia-search/static/css/main.8b0878a0.css.map",
+    "main.4c4dfec2.js.map": "/sprint-4-Wikipedia-search/static/js/main.4c4dfec2.js.map",
+    "787.13afafe9.chunk.js.map": "/sprint-4-Wikipedia-search/static/js/787.13afafe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0878a0.css",
+    "static/js/main.4c4dfec2.js"
+  ]
+}
